@@ -1,2 +1,2 @@
-# relatoriov0
-Primeira versão do documento Gestão de Configuração de Software 
+# relat-riogcsv1
+Segunda Versão do Relatório de Gestão de Configuração de Software 
